@@ -41,3 +41,21 @@ pip install -r requirements.txt
 5. Add tests to verify key behaviors.
 6. Connect your logic to the Streamlit UI in `app.py`.
 7. Refine UML so it matches what you actually built.
+
+## 📸 Demo
+![Demo](image.png)
+
+## Features
+Owner & Pet Management
+- Create and manage owner profiles with email and daily time availability
+- Add multiple pets per owner with species, breed, and age tracking
+
+Task Management
+- Create tasks assigned to specific pets with detailed descriptions
+- Set task duration (in minutes)
+- Support recurring task frequencies: "once", "daily", "weekly"
+- Filter tasks by status (all, pending, completed)
+
+Schedule Generation
+- Maximize number of completed tasks within available time constraints
+- Assign tasks to available time slots intelligently
