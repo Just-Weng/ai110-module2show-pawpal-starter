@@ -51,6 +51,7 @@ The UML was one moment when I did not accept the AI suggestion as is, it did not
 **a. What you tested**
 
 - What behaviors did you test?
+The features that I tested were
 - Why were these tests important?
 
 **b. Confidence**
